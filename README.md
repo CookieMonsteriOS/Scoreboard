@@ -1,2 +1,2 @@
 # Scoreboard
-Scoreboard Application
+Scoreboard Application built with React, will need install of node modules.
